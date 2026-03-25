@@ -57,4 +57,4 @@ rm -rf "$TEMP_DIR"
 
 # 7. Final Check
 echo "✨ Successfully installed $BINARY_NAME!"
-$BINARY_NAME --version
+$BINARY_NAME version
